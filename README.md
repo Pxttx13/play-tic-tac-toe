@@ -1,4 +1,4 @@
-# Random Quote Generator
+# Tic-Tac-Toe
 
 [Preview link](https://pxttx13.github.io/play-tic-tac-toe/)
 
